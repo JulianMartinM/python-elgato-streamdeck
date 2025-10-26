@@ -19,6 +19,12 @@ class USBProductIDs:
     USB Product IDs for known StreamDeck devices.
     """
 
+    USB_PID_WAVE_XLR = 0x007d
+
+    """
+    Personal Change
+    """
+
     USB_PID_STREAMDECK_MINI = 0x0063
     USB_PID_STREAMDECK_MINI_MK2 = 0x0090
     USB_PID_STREAMDECK_MINI_MK2_MODULE = 0x00b8
